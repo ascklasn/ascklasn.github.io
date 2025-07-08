@@ -1,4 +1,4 @@
-baseURL = "https://example.com"  # 等后来github page的域名
+baseURL = "https://ascklasn.github.io/"  # 等后来github page的域名
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
