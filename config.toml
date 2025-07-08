@@ -1,0 +1,27 @@
+baseURL = "https://example.com"  # 等后来github page的域名
+
+# set your your own ga token here.
+googleAnalytics = "UA/G-123123-12"
+
+languageCode = "en-us"  # 语言代码，默认是英文-美国
+
+# for using avicenna you need to set the themes to 'avicenna'
+enableEmoji = true
+theme = "avicenna"
+
+# This is your page title, it appears in your tab
+title = "Ruizhen Hu"
+
+# number of posts to show on the blog page
+[pagination]
+  pagerSize = 10
+
+[markup]
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 1
+
+[params]
+# it is used for the copy-right section of your page  
+name = "Ruizhen Hu"
