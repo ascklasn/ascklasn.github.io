@@ -6,7 +6,7 @@ draft: false
 headless: true
 
 full_name: "Ruizhen Hu"
-profile_picture: "Wukong.png"
+profile_picture: "profile.png"
 cv: "Ruizhen_Hu_Academic_CV.pdf"  # todo 这个需要换成自己的cv链接，找找在哪里修改
 
 # set to false if you don't want to show your blog
